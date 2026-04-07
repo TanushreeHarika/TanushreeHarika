@@ -41,7 +41,7 @@ Beyond the code, I'm a firm believer in **skill over education**. I spend my tim
 
 ✨ **I am very active on LinkedIn!** I share my journey, technical learnings, and thoughts on why skills matter more than degrees.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[YOUR_PROFILE_URL](https://www.linkedin.com/in/tanushree-harika-15b374323/))
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanushree-harika-15b374323/))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harileet@gmail.com)
 
 > **"Good communication is the bridge between a great idea and a great product."**
