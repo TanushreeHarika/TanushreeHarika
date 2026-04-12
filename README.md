@@ -47,6 +47,11 @@ I specialize in **AI-driven development**, using modern tools to accelerate the 
 * **Prompt Engineering:** Optimizing AI interactions to generate clean, maintainable code.
 ---
 
+## 🚀 Current Status
+I am actively seeking *Summer Internships (2026)* and *Open Source collaborations* where I can contribute my skills 
+
+---
+
 ## 🤝 Let's Connect
 
 ✨ **I am very active on LinkedIn!** Follow my journey as I build in public.
