@@ -1,16 +1,19 @@
 # Hey there! I am Tanushree Harika 👋
 
-* **2nd-year B.Tech IT Student | Full-Stack Developer | Storyteller**
+**Co-Founder @ Quantily AI | Aspiring Full-Stack Developer | Technical Storyteller**
 
-## 👩‍💻 About Me
-
-I am an undergraduate student currently deep-diving into **Full-Stack Development** and **AI-driven solutions**. I love building tools like **NextMatch AI** and exploring how technology can be more "human" and less robotic.
-
-Beyond the code, I'm a firm believer in **skill over education**. I spend my time learning survival skills, walking in nature to clear my head, or getting creative with clay and drawing.
+I don’t just write code; I build solutions. As a 2nd-year B.Tech student, I leverage **AI-augmented development** to bridge the gap between technical logic and business growth. I’m currently documenting the journey of building a startup from scratch and mastering the modern web stack.I leverage AI as a powerful co-pilot to accelerate my building process, while staying committed to dissecting and understanding the logic behind every solution I implement.
 
 ---
 
-## 🛠 Tech I Work With
+## 🏗️ What I’m Building
+* **Quantily AI:** Co-founding a venture to empower small businesses with AI-driven marketing and web automation.
+* **NextMatch AI:** Developing tools that focus on making technology feel more human and less robotic.
+* **Open Source Journey:** Actively exploring to contribute to projects that solve real-world problems.
+
+---
+
+## 🛠️ My Digital Toolkit
 
 ### 💻 Languages & Frameworks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -37,13 +40,20 @@ Beyond the code, I'm a firm believer in **skill over education**. I spend my tim
 
 ---
 
+
+## 🤖 AI-Augmented Workflow
+I specialize in **AI-driven development**, using modern tools to accelerate the 0-to-1 building process.
+* **Rapid Prototyping:** Leveraging LLMs for architectural brainstorming and quick feature deployment.
+* **Prompt Engineering:** Optimizing AI interactions to generate clean, maintainable code.
+---
+
 ## 🤝 Let's Connect
 
-✨ **I am very active on LinkedIn!** I share my journey, technical learnings, and thoughts on why skills matter more than degrees.
+✨ **I am very active on LinkedIn!** Follow my journey as I build in public.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanushree-harika-15b374323/))
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harileet@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanushree-harika-15b374323/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harileet100@gmail.com)
 
-> **"Good communication is the bridge between a great idea and a great product."**
+> **"The best way to predict the future is to build it."**
 
 ✨ *Build · Learn · Repeat* ✨
