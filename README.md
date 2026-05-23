@@ -60,5 +60,7 @@ I am actively seeking *Summer Internships (2026)* and *Open Source collaboration
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harileet100@gmail.com)
 
 > **"The best way to predict the future is to build it."**
+>
+> ![CommitPulse](https://commitpulse.vercel.app/api/streak?user=TanushreeHarika)
 
 ✨ *Build · Learn · Repeat* ✨
