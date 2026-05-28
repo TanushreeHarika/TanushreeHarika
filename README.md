@@ -2,7 +2,7 @@
 
 **Co-Founder @ Quantily AI | Aspiring Full-Stack Developer | Technical Storyteller**
 
-I don’t just write code; I build solutions. As a 2nd-year B.Tech student, I leverage **AI-augmented development** to bridge the gap between technical logic and business growth. I’m currently documenting the journey of building a startup from scratch and mastering the modern web stack.I leverage AI as a powerful co-pilot to accelerate my building process, while staying committed to dissecting and understanding the logic behind every solution I implement.
+I don’t just write code; I build solutions. As a 3nd-year B.Tech student, I leverage **AI-augmented development** to bridge the gap between technical logic and business growth. I’m currently documenting the journey of building a startup from scratch and mastering the modern web stack.I leverage AI as a powerful co-pilot to accelerate my building process, while staying committed to dissecting and understanding the logic behind every solution I implement.
 
 ---
 
