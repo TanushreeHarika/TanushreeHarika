@@ -115,8 +115,6 @@
 
 ## 🐍 Contribution Snake
 
-## 🐍 Contribution Snake
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TanushreeHarika/TanushreeHarika/output/github-contribution-grid-snake-dark.svg">
@@ -124,12 +122,6 @@
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/TanushreeHarika/TanushreeHarika/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/TanushreeHarika/TanushreeHarika/output/github-contribution-grid-snake-dark.svg" />
-
-</p>
 
 ---
 
