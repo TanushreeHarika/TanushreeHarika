@@ -19,8 +19,8 @@ jobs:
         with:
           github_user_name: TanushreeHarika
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?speed=8&color=bd93f9
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&speed=8&color=ff79c6&head=bd93f9
 
       - name: Push Snake Animation to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
