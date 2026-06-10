@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Open Source Contributor | 💻 Developer | 🌸 Tech Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;GSSoC+2026+Contributor+🚀;Building+Projects+and+Learning+Daily+💻;Always+Curious,+Always+Growing+🌱" />
+<img src="https://raw.githubusercontent.com/TanushreeHarika/TanushreeHarika/main/Banner" width="100%" />
 </p>
 
 <p align="center">
