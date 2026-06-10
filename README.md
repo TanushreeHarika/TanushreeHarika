@@ -40,10 +40,10 @@
 
 <p align="center">
 
-<img src="YOUR_BADGE_1_URL" width="140"/>
-<img src="YOUR_BADGE_2_URL" width="140"/>
-<img src="YOUR_BADGE_3_URL" width="140"/>
-<img src="YOUR_BADGE_4_URL" width="140"/>
+<img src="https://raw.githubusercontent.com/TanushreeHarika/TanushreeHarika/main/gssoc-badge-consistent.png" width="140"/>
+<img src="https://raw.githubusercontent.com/TanushreeHarika/TanushreeHarika/main/gssoc-badge-power_contributor.png" width="140"/>
+<img src="https://raw.githubusercontent.com/TanushreeHarika/TanushreeHarika/main/gssoc2026-open-badge.png" width="140"/>
+
 
 </p>
 
