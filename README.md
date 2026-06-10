@@ -1,69 +1,150 @@
-# Hey there! I am Tanushree Harika 👋
+<h1 align="center">Hi 👋, I'm Harika</h1>
 
- Aspiring Full-Stack Developer | Technical Storyteller
+<h3 align="center">🚀 Open Source Contributor | 💻 Developer | 🌸 Tech Enthusiast</h3>
 
-I don’t just write code; I build solutions. As a 3nd-year B.Tech student, I leverage **AI-augmented development** to bridge the gap between technical logic and business growth. I’m currently documenting the journey of building a startup from scratch and mastering the modern web stack.I leverage AI as a powerful co-pilot to accelerate my building process, while staying committed to dissecting and understanding the logic behind every solution I implement.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;GSSoC+2026+Contributor+🚀;Building+Projects+and+Learning+Daily+💻;Always+Curious,+Always+Growing+🌱" />
+</p>
 
----
-
-## 🏗️ What I’m Building
-* **Quantily AI:** Co-founding a venture to empower small businesses with AI-driven marketing and web automation.
-* **NextMatch AI:** Developing tools that focus on making technology feel more human and less robotic.
-* **Open Source Journey:** Actively exploring to contribute to projects that solve real-world problems.
-
----
-
-## 🛠️ My Digital Toolkit
-
-### 💻 Languages & Frameworks
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-Principles-blue?style=for-the-badge)
-
-
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-
-### ⚙️ Backend & Databases
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-
-### 📚 Fundamentals & Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-Data%20Structures-orange?style=for-the-badge)
-![CS Fundamentals](https://img.shields.io/badge/CS-Fundamentals-lightgrey?style=for-the-badge)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TanushreeHarika&label=Profile+Views&color=ff69b4&style=for-the-badge" />
+</p>
 
 ---
 
+## 🌸 About Me
 
-## 🤖 AI-Augmented Workflow
-I specialize in **AI-driven development**, using modern tools to accelerate the 0-to-1 building process.
-* **Rapid Prototyping:** Leveraging LLMs for architectural brainstorming and quick feature deployment.
-* **Prompt Engineering:** Optimizing AI interactions to generate clean, maintainable code.
+✨ B.Tech Student
+
+🚀 Open Source Contributor
+
+💻 Exploring Full Stack Development
+
+🌱 Currently learning and building every day
+
+🎯 Goal: Contribute to impactful projects and grow as a developer
+
 ---
 
-## 🚀 Current Status
-I am actively seeking *Summer Internships (2026)* and *Open Source collaborations* where I can contribute my skills 
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,mongodb,mysql,git,github,vscode&perline=6" />
+
+</p>
 
 ---
 
-## 🤝😃 Let's Connect
+## 🏆 GSSoC 2026 Badges
 
-✨ **I am very active on LinkedIn!** Follow my journey as I build in public.
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanushree-harika-15b374323/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harileet100@gmail.com)
+<img src="YOUR_BADGE_1_URL" width="140"/>
+<img src="YOUR_BADGE_2_URL" width="140"/>
+<img src="YOUR_BADGE_3_URL" width="140"/>
+<img src="YOUR_BADGE_4_URL" width="140"/>
 
-> **"The best way to predict the future is to build it."**
->
-> ![CommitPulse](https://commitpulse.vercel.app/api/streak?user=TanushreeHarika)
+</p>
 
-✨ *Build · Learn · Repeat* ✨
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TanushreeHarika&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanushreeHarika&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TanushreeHarika&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TanushreeHarika&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 🏅 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=TanushreeHarika&theme=tokyonight&row=2&column=4"/>
+
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+<a href="https://github.com/TanushreeHarika">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TanushreeHarika&repo=YOUR_REPO_NAME&theme=tokyonight"/>
+</a>
+</td>
+
+<td width="50%">
+<a href="https://github.com/TanushreeHarika">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TanushreeHarika&repo=YOUR_SECOND_REPO&theme=tokyonight"/>
+</a>
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/TanushreeHarika/TanushreeHarika/output/github-contribution-grid-snake-dark.svg" />
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/TanushreeHarika">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">✨ Thanks for Visiting ✨</h3>
+
+<p align="center">
+⭐ If you like my work, consider starring my repositories!
+</p>
