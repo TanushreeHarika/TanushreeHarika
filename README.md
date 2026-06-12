@@ -132,7 +132,7 @@ I intentionally design my development pipelines around a state-of-the-art **AI-a
         <h4 style="color: #ff79c6;">🌐 Frontend Systems</h4>
         <p style="font-size: 11px; color: #6272a4;"><i>High-fidelity interfaces & components</i></p>
         <br/>
-        <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,js,html,css&perline=3" alt="Frontend Stack" />
+        <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts,js,html,css&perline=3" alt="Frontend Stack" />
       </td>
       <!-- Column 2: Backend & Database Mesh -->
       <td width="33.3%" align="center" valign="top" style="border-right: 1px solid #44475a; padding: 10px;">
