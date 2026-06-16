@@ -52,7 +52,7 @@
   <!-- Row 1: General Profile Analytics -->
   <tr>
     <td width="55%" align="left" valign="middle">
-      <h3>📈 System Architecture Metrics</h3>
+      <h3>📈 System Architecture Metrics </h3>
       <p>A high-level view of execution metrics. Tracking commit velocities, repository distributions, and total platform impact in real-time.</p>
       <p><i><code>Status: Optimizing background routines for cleaner git graphs.</code></i></p>
     </td>
