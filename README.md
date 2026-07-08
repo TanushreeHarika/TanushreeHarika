@@ -76,7 +76,7 @@
   <!-- Row 3: Streak Telemetry -->
   <tr>
     <td width="55%" align="left" valign="middle">
-      <h3>🔥 Codebase Persistence (Streak)</h3>
+      <h3>🔥 Codebase Persistence  (Streak)</h3>
       <p>An objective record of momentum. Iterative, daily pushes to ensure code quality stays high and ideas get turned into production files fast.</p>
       <p><i><code>Loop state: While true -> write code, deploy, repeat.</code></i></p>
     </td>
