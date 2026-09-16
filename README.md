@@ -61,7 +61,7 @@
     </td>
   </tr>
 
-  <!-- Row 2: Language Distribution -->
+  <!-- Row 2: Language Distribution. -->
   <tr>
     <td width="45%" align="center" valign="middle">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanushreeHarika&layout=compact&theme=dracula&bg_color=1e1e2e&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2&hide_border=true" width="100%" alt="Top Languages" />
