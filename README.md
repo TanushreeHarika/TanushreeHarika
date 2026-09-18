@@ -7,7 +7,7 @@
 
   <!-- Header Section -->
   <h1 style="font-size: 2.5em; font-weight: 800; background: linear-gradient(45deg, #ff79c6, #bd93f9); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    ✨ Tanushree Harika ✨
+     Tanushree Harika 
   </h1>
   
   <p style="font-size: 1.1em; color: #f8f8f2; letter-spacing: 0.5px;">
@@ -143,14 +143,38 @@
 
 ---
 
+<!-- 🏆 System Achievements & Hall of Fame -->
+<div align="center">
+  <table border="0" width="100%">
+    <tr>
+      <td align="center" valign="top" style="padding: 10px 0;">
+        <h4 style="color: #ff79c6; font-size: 1.2em; margin-bottom: 8px;">🏅 GirlScript Summer of Code (GSSoC 2026)</h4>
+        <p style="max-width: 650px; color: #f8f8f2; font-size: 13.5px; text-align: center; margin: 0 auto 16px auto;">
+          Ranked <b>#275 globally out of 43,587+ developers</b> • <b>13,242 points</b> earned • Merged <b>26+ PRs</b> across multi-stack repositories.
+        </p>
+        <p align="center">
+          <img src="gssoc2026-open-badge.png" width="110" alt="GSSoC 2026 Badge" />
+          <img src="gssoc-badge-consistent.png" width="110" alt="Consistent Contributor Badge" />
+          <img src="gssoc-badge-power_contributor.png" width="110" alt="Power Contributor Badge" />
+          <img src="gssoc-badge-gssoc_champion.png" width="110" alt="GSSoC Champion Badge" />
+        </p>
+        <br/>
+        <h4 style="color: #bd93f9; font-size: 1.05em; margin-bottom: 10px;">📊 Official Contributor Dashboard</h4>
+        <img src="dashboard.png" width="90%" alt="GSSoC Contributor Dashboard" style="border-radius: 10px;" />
+      </td>
+    </tr>
+  </table>
+</div>
+---
+
 ## 📊 Telemetry & Analytics
 
 <div align="center">
   <a href="https://github.com/TanushreeHarika">
-    <img src="https://github-readme-stats.vercel.app/api?username=TanushreeHarika&show_icons=true&theme=dracula&bg_color=1e1e2e&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2&hide_border=true" width="49%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=TanushreeHarika&show_icons=true&theme=dracula&bg_color=1e1e2e&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2&hide_border=true" width="49%" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/TanushreeHarika">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanushreeHarika&layout=compact&theme=dracula&bg_color=1e1e2e&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2&hide_border=true" width="49%" alt="Top Languages" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TanushreeHarika&layout=compact&theme=dracula&bg_color=1e1e2e&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2&hide_border=true" width="49%" alt="Top Languages" />
   </a>
 </div>
 
@@ -163,25 +187,6 @@
   <a href="https://github.com/TanushreeHarika">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanushreeHarika&theme=dracula&bg_color=1e1e2e&color=ff79c6&line=bd93f9&point=f8f8f2&hide_border=true" width="49%" alt="Activity Graph" />
   </a>
-</div>
----
-
-## 🏆 System Achievements & Hall of Fame
-
-<div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <td align="center" valign="top" style="padding: 10px 0;">
-        <h4 style="color: #ff79c6; font-size: 1.2em; margin-bottom: 8px;">🏅 GirlScript Summer of Code (GSSoC 2026)</h4>
-        <p style="max-width: 650px; color: #f8f8f2; font-size: 13.5px; text-align: center; margin: 0 auto 12px auto;">
-          Ranked <b>#275 globally out of 43,587+ developers</b> • <b>13,242 points</b> earned • Merged <b>26+ PRs</b> across multi-stack repositories.
-        </p>
-        <img src="gssoc2026-open-badge.png" width="120" alt="GSSoC 2026 Badge" style="margin: 0 8px;" />
-        <img src="gssoc-badge-consistent.png" width="120" alt="Consistent Contributor Badge" style="margin: 0 8px;" />
-        <img src="gssoc-badge-power_contributor.png" width="120" alt="Power Contributor Badge" style="margin: 0 8px;" />
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
