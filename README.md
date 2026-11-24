@@ -1,10 +1,4 @@
-<div align="center">
-  <!-- Custom Gradient Braille Banner -->
-  <img src="https://raw.githubusercontent.com/TanushreeHarika/TanushreeHarika/main/banner.svg" width="100%" style="border-radius: 12px;" alt="Banner" />
-
-  <br/><br/>
-
-  <!-- Header Section -->
+<!-- Header Section -->
   <h1 style="font-size: 2.5em; font-weight: 800; background: linear-gradient(45deg, #ff79c6, #bd93f9); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
      Tanushree Harika 
   </h1>
@@ -12,6 +6,13 @@
   <p style="font-size: 1.1em; color: #f8f8f2; letter-spacing: 0.4px;">
     <b>b.tech it</b> &nbsp;&middot;&nbsp; <b>shipping stuff &amp; ai things</b> &nbsp;&middot;&nbsp; <b>figuring it out in public</b>
   </p>
+<div align="center">
+  <!-- Custom Gradient Braille Banner -->
+  <img src="https://raw.githubusercontent.com/TanushreeHarika/TanushreeHarika/main/banner.svg" width="100%" style="border-radius: 12px;" alt="Banner" />
+
+  <br/><br/>
+
+  
 
   <br/>
 
